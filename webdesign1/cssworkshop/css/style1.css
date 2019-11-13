@@ -1,0 +1,16 @@
+body{
+  width: 1200px;
+  background-color:#d63031;
+  margin: 40px auto;
+}
+nav{
+  width: 300px;
+  float: left;
+}
+#content{
+  margin-left : 340px;
+  background-color: #636e72;
+}
+#wrap{
+  padding: 16px;
+}
